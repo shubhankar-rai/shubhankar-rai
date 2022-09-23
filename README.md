@@ -1,6 +1,6 @@
 - 👋 Hi, I’m an aspiring Data Scientist & a Python Developer
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python Based Automation
+- 🌱 I’m currently learning Deep Learning
 - 📫 Reach me : <a href="mailto:shubhankarrai99@gmail.com">shubhankarrai99@gmail.com</a>
 
 
