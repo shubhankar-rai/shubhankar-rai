@@ -8,8 +8,8 @@ I'm currently pursuing my postgrad in Computer Applications from Manipal Institu
 
 * 🌍  I'm based in Prayagraj, Uttar Pradesh, IN
 * ✉️  You can contact me at [shubhankarrai99@gmail.com](mailto:shubhankarrai99@gmail.com)
-* 🧠  I'm learning Deep Learning
-* 🤝  I'm open to collaborating on Data Analytics or Machine Learning based Projects
+* 🧠  I'm learning Natural Language Processing
+* 🤝  I'm open to collaborating on Data Analytics, Machine Learning and Python Based Development Projects
 
 ### Skills
 
