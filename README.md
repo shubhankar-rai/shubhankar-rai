@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer & Data Scientist
 ---------------------------------
 
-I'm currently pursuing my postgrad in Computer Applications from Manipal Institute of Technology. I work with Python, C++, Flask, and I do Data Analysis, Build Machine Learning Models & Create Web Applications.
+I'm currently pursuing my postgrad in Computer Applications from Manipal Institute of Technology. I work with Python, C++, Java, Flask, and I do Data Analysis, Build Machine Learning Models & Create Web Applications.
 
 * 🌍  I'm based in Prayagraj, Uttar Pradesh, IN
 * ✉️  You can contact me at [shubhankarrai99@gmail.com](mailto:shubhankarrai99@gmail.com)
