@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Chat Application.<br>👯 I’m looking to collaborate on Java Development, Data Analysis, Web Development & Machine Learning.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about anything<br>⚡ Fun Fact : ChatGPT won't take away your Coding Job.
+🔭 I’m currently working on a Discord Type Application.<br>👯 I’m looking to collaborate on Java Development.<br>🌱 I’m currently learning Django.<br>💬 Ask me about anything<br>⚡ Fun Fact : ChatGPT won't take away your Coding Job.
 
 
 ## 🌐 Socials:
