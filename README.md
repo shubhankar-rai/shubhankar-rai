@@ -1,1 +1,1 @@
-Hi, I'm a Fullstack Developer at Escriba specializing in Angular and Spring.
+Hi, I'm a Fullstack Developer currently working at Konrad Group specializing in Angular, Spring Boot, React & NodeJS.
