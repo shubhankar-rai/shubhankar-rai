@@ -1,1 +1,1 @@
-Hi, I'm a Fullstack Developer currently working at Konrad Group specializing in Angular, Spring Boot, React & NodeJS.
+Hi, I'm a Fullstack Developer.
